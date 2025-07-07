@@ -16,29 +16,30 @@ Codveda Internship Project - Level 1 Task 1
 
 ---
 
-## Video -
-![video](https://drive.google.com/file/d/1a-YbjXb8pi9mymiJHsYIaK0Wbya6qp4y/view?usp=drive_link)
+## 🎥 Video Demo
+
+📺 [Click here to watch the demo video](https://drive.google.com/file/d/1a-YbjXb8pi9mymiJHsYIaK0Wbya6qp4y/view?usp=drive_link)
 
 ---
 
+## 🖼️ Screenshots
 
-## SHREENSHOTS - 
 1. **Calculator UI (Home Page):**  
-![image](https://drive.google.com/file/d/1KfqDtPMVMSQ9h5TeCi647V6HDqFfslf4/view?usp=drive_link)
-
+📷 [View Screenshot](https://drive.google.com/file/d/1KfqDtPMVMSQ9h5TeCi647V6HDqFfslf4/view?usp=drive_link)
 
 2. **Output with Result:**  
-   ![image](https://drive.google.com/file/d/1a-YbjXb8pi9mymiJHsYIaK0Wbya6qp4y/view?usp=drive_link)
-   ![image](https://drive.google.com/file/d/1pXzkaQimzvrz0ywiGFJZOIsoxZ1oUFZo/view?usp=drive_link)
-   ![image](https://drive.google.com/file/d/1c3tCIsktMyTBIqvXcRHihsdOAimkuOcb/view?usp=drive_link)
-   ![image](https://drive.google.com/file/d/1iE72Qa31Jc8RPttbGLPm8bZV9y6iw-t9/view?usp=drive_link)
-   ![image](https://drive.google.com/file/d/1X9B8m4I4Azt_Hv1oTGnvKYERNAUWCzpk/view?usp=drive_link)
+- [Screenshot 1](https://drive.google.com/file/d/1a-YbjXb8pi9mymiJHsYIaK0Wbya6qp4y/view?usp=drive_link)  
+- [Screenshot 2](https://drive.google.com/file/d/1pXzkaQimzvrz0ywiGFJZOIsoxZ1oUFZo/view?usp=drive_link)  
+- [Screenshot 3](https://drive.google.com/file/d/1c3tCIsktMyTBIqvXcRHihsdOAimkuOcb/view?usp=drive_link)  
+- [Screenshot 4](https://drive.google.com/file/d/1iE72Qa31Jc8RPttbGLPm8bZV9y6iw-t9/view?usp=drive_link)  
+- [Screenshot 5](https://drive.google.com/file/d/1X9B8m4I4Azt_Hv1oTGnvKYERNAUWCzpk/view?usp=drive_link)
 
-4. **Division by Zero Handling:**  
-   ![image](https://drive.google.com/file/d/1u-UZFn4eJwhW7j4jxLO5WqVEMPm0plXn/view?usp=drive_link)
+3. **Division by Zero Handling:**  
+📷 [View Screenshot](https://drive.google.com/file/d/1u-UZFn4eJwhW7j4jxLO5WqVEMPm0plXn/view?usp=drive_link)
 
-5. **After Reset:**
-   ![image](https://drive.google.com/file/d/1SWZnP3I6fMzs0DVSlaDtVFQm3YmASmMx/view?usp=drive_link)
+4. **After Reset:**  
+📷 [View Screenshot](https://drive.google.com/file/d/1SWZnP3I6fMzs0DVSlaDtVFQm3YmASmMx/view?usp=drive_link)
+
 ---
 
 ## 🖥️ System Design
