@@ -16,9 +16,8 @@ Codveda Internship Project - Level 1 Task 1
 
 ---
 
-## 🎥 Video Demo
-
-![Demo Video](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Codveda_L1T1.gif?raw=true)
+## Demo Video
+https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Codveda_L1T1.gif?raw=true 
 
 > 📌 GitHub READMEs **cannot embed playable .mp4 videos** directly.  
 > ✅ For actual video playback, [Click here to watch the demo video](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Codveda_L1T1.mp4)
