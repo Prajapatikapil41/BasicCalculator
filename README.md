@@ -16,10 +16,6 @@ Codveda Internship Project - Level 1 Task 1
 
 ---
 
-## 🎥 Demo Video
-
-[![Watch Demo](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(129).png?raw=true)](https://github.com/Prajapatikapil41/BasicCalculator/assets/81869156/bd43853f-832b-4819-b0be-d7b5e7893a29)
-
 ## 🖼️ Screenshots
 
 1. **Calculator UI (Home Page):**  
