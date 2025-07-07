@@ -18,27 +18,26 @@ Codveda Internship Project - Level 1 Task 1
 
 ## 🎥 Video Demo
 
-📺 [Click here to watch the demo video](https://drive.google.com/file/d/1a-YbjXb8pi9mymiJHsYIaK0Wbya6qp4y/view?usp=drive_link)
+📺 [Click here to watch the demo video](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Codveda_L1T1.mp4)
 
 ---
 
 ## 🖼️ Screenshots
 
 1. **Calculator UI (Home Page):**  
-📷 [View Screenshot](https://drive.google.com/file/d/1KfqDtPMVMSQ9h5TeCi647V6HDqFfslf4/view?usp=drive_link)
+📷 [View Screenshot](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(129).png?raw=true)
 
 2. **Output with Result:**  
-- [Screenshot 1](https://drive.google.com/file/d/1a-YbjXb8pi9mymiJHsYIaK0Wbya6qp4y/view?usp=drive_link)  
-- [Screenshot 2](https://drive.google.com/file/d/1pXzkaQimzvrz0ywiGFJZOIsoxZ1oUFZo/view?usp=drive_link)  
-- [Screenshot 3](https://drive.google.com/file/d/1c3tCIsktMyTBIqvXcRHihsdOAimkuOcb/view?usp=drive_link)  
-- [Screenshot 4](https://drive.google.com/file/d/1iE72Qa31Jc8RPttbGLPm8bZV9y6iw-t9/view?usp=drive_link)  
-- [Screenshot 5](https://drive.google.com/file/d/1X9B8m4I4Azt_Hv1oTGnvKYERNAUWCzpk/view?usp=drive_link)
+- [Screenshot 1](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(130).png?raw=true)  
+- [Screenshot 2](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(131).png?raw=true)  
+- [Screenshot 3](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(132).png?raw=true)  
+- [Screenshot 4](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(133).png?raw=true)  
 
 3. **Division by Zero Handling:**  
-📷 [View Screenshot](https://drive.google.com/file/d/1u-UZFn4eJwhW7j4jxLO5WqVEMPm0plXn/view?usp=drive_link)
+📷 [View Screenshot](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(134).png?raw=true)
 
 4. **After Reset:**  
-📷 [View Screenshot](https://drive.google.com/file/d/1SWZnP3I6fMzs0DVSlaDtVFQm3YmASmMx/view?usp=drive_link)
+📷 [View Screenshot](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(135).png?raw=true)
 
 ---
 
