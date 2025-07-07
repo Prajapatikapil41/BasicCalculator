@@ -18,28 +18,30 @@ Codveda Internship Project - Level 1 Task 1
 
 ## 🎥 Video Demo
 
-📺 [Click here to watch the demo video](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Codveda_L1T1.mp4)
+![Demo Video](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Codveda_L1T1.gif?raw=true)
+
+> 📌 GitHub READMEs **cannot embed playable .mp4 videos** directly.  
+> ✅ For actual video playback, [Click here to watch the demo video](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Codveda_L1T1.mp4)
 
 ---
 
 ## 🖼️ Screenshots
 
 1. **Calculator UI (Home Page):**  
-📷 [View Screenshot](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(129).png?raw=true)
+![Calculator UI](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(129).png?raw=true)
 
 2. **Output with Result:**  
-- [Screenshot 1](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(130).png?raw=true)  
-- [Screenshot 2](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(131).png?raw=true)  
-- [Screenshot 3](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(132).png?raw=true)  
-- [Screenshot 4](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(133).png?raw=true)  
+![Result 1](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(130).png?raw=true)  
+![Result 2](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(131).png?raw=true)  
+![Result 3](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(132).png?raw=true)  
+![Result 4](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(133).png?raw=true)
 
 3. **Division by Zero Handling:**  
-📷 [View Screenshot](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(134).png?raw=true)
+![Division by Zero](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(134).png?raw=true)
 
 4. **After Reset:**  
-📷 [View Screenshot](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(135).png?raw=true)
+![After Reset](https://github.com/Prajapatikapil41/BasicCalculator/blob/main/Images%20and%20Videos/Screenshot%20(135).png?raw=true)
 
----
 
 ## 🖥️ System Design
 
