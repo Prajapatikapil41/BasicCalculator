@@ -125,11 +125,10 @@ npm start
 * Add authentication/login system
 
 ---
-
 ## 👨‍💻 Author
 
-| Name                | GitHub                                                  | LinkedIn                                                                 | E-Mail                                                              |
-| ------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| **Kapil Prajapati** | [Prajapatikapil41](https://github.com/Prajapatikapil41) | [Kapil LinkedIn](https://www.linkedin.com/in/kapil-prajapati-7ba4b51b7/) | [kapilprajapati0403@gmail.com](mailto:kapilprajapati0403@gmail.com) |
+|                                                                                                     Photo                                                                                                    | **Kapil Prajapati**                                                                                                                                                                                                                                                 |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [<img src="https://avatars.githubusercontent.com/u/81869156?s=400&u=ff6de7017b51e4d96dbfb1ae39c7a459d5e13ea8&v=4" width="120" height="120" style="border-radius:50%;">](https://github.com/Prajapatikapil41) | - 🧑‍💻 **GitHub:** [Prajapatikapil41](https://github.com/Prajapatikapil41)<br> - 💼 **LinkedIn:** [Kapil LinkedIn](https://www.linkedin.com/in/kapil-prajapati-7ba4b51b7/)<br> - 📧 **Email:** [kapilprajapati0403@gmail.com](mailto:kapilprajapati0403@gmail.com) |
 
-```
+---
